@@ -1,0 +1,2 @@
+1 shallow semantic parsing :-- Shalmaneser
+http://www.coli.uni-saarland.de/projects/salsa/shal/

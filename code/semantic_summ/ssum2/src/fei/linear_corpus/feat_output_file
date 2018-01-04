@@ -1,0 +1,896 @@
+0 e n1 n cpt catch-02	1.000000
+1 e n1 posit fmst 10 n2 posit fmst 10	9.000000
+1 n posit avg 7	47.000000
+1 e n2 n freq 0	0.000000
+1 e rel fst ARG1 p2	28.000000
+1 e n1 n cpt possess-01	2.000000
+0 e n2 n cpt cannabis	2.000000
+0 n cpt traffic-00	1.000000
+1 n cpt cause-01	1.000000
+1 e n1 n cpt drug	1.000000
+1 e n1 posit fmst 9 n2 posit fmst 9	8.000000
+0 n cpt person_name_:op1_"Karras"	1.000000
+1 e freq non_null 0	0.000000
+0 e rel fst mod p1	6.000000
+1 e rel fst quant p1	5.000000
+0 e n1 posit fmst 4 n2 posit fmst 4	4.000000
+1 e n1 n cpt catch-02	1.000000
+0 e n1 posit fmst 8 n2 posit fmst 9	1.000000
+1 n cpt mandatory	1.000000
+0 e rel fst op1 p1	6.000000
+1 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+0 n posit fmst 10	12.000000
+1 e n1 n cpt cause-01	1.000000
+0 e n2 n cpt punish-01	1.000000
+1 n freq 2	17.000000
+1 e n1 posit fmst 3 n2 posit fmst 7	3.000000
+1 n cpt at-least	1.000000
+0 e posit fmst 5	80.000000
+1 e rel fst poss p1	1.000000
+1 e rel fst concession p1	1.000000
+0 e n1 n dep avg 3	48.000000
+0 n cpt arrest-01	1.000000
+1 e n2 n cpt catch-02	1.000000
+1 e n1 n cpt state-01	4.000000
+1 e rel fst op2 p2	2.000000
+0 e n1 posit fmst 8 n2 posit fmst 10	1.000000
+0 e rel fst concession p3	1.000000
+0 e n2 n cpt date-entity_:year_2002	1.000000
+0 n span lgst 5	0.000000
+0 n dep avg 3	47.000000
+0 n cpt hang-01	1.000000
+1 n cpt date-entity_:day_9_:month_1_:year_2007	1.000000
+0 e rel fst unit p3	2.000000
+0 e n2 n posit fmst 10	11.000000
+0 e n1 n cpt contrast-01	2.000000
+0 e n1 posit fmst 10 n2 posit fmst 2	1.000000
+0 n cpt possess-01	1.000000
+0 e n2 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+0 n dep avg 1	68.000000
+1 e posit fmst 5	80.000000
+1 e n2 n cpt high	1.000000
+0 e n1 dep fmst 6 n2 dep fmst 2	1.000000
+0 n cpt mass-quantity	1.000000
+1 e rel fst degree p2	1.000000
+1 e n1 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+0 e n2 n dep fmst 4	34.000000
+1 e n1 n dep fmst 4	26.000000
+1 e freq non_null 2	3.000000
+0 e n1 posit fmst 9 n2 posit fmst 9	8.000000
+0 e n2 n cpt cause-01	1.000000
+1 e rel fst instrument p1	1.000000
+1 e n1 posit fmst 7 n2 posit fmst 7	13.000000
+0 e n1 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+1 n dep fmst 4	30.000000
+0 e n2 n cpt date-entity_:month_12_:year_2005	1.000000
+1 e rel fst poss	1.000000
+1 e n2 n span lgst 0	174.000000
+0 n dep fmst 1	68.000000
+1 e rel fst poss p3	1.000000
+0 e n2 n cpt lobby-01	1.000000
+1 n cpt punish-01	1.000000
+1 e rel fst concession p3	1.000000
+0 e n2 n span lgst 1	0.000000
+0 e n2 n cpt after	1.000000
+0 e n1 dep fmst 3 n2 dep fmst 3	1.000000
+0 e rel fst condition	1.000000
+0 e n1 n dep fmst 4	26.000000
+1 e rel fst ARG3 p2	1.000000
+1 e rel fst ARG1-of p3	3.000000
+1 e n2 n cpt country_name_:op1_"Australia"	6.000000
+0 n cpt minimum	1.000000
+1 n cpt execute-01	1.000000
+0 n cpt more-than	1.000000
+1 e n1 n cpt anyone	1.000000
+0 e rel fst poss p1	1.000000
+1 n span avg 5	0.000000
+1 n posit avg 10	12.000000
+1 n cpt temporal-quantity	1.000000
+1 n cpt mass-quantity	1.000000
+0 e n1 n freq 5	1.000000
+1 e rel fst op2	2.000000
+1 n dep fmst 5	17.000000
+0 e rel fst location p1	2.000000
+0 e n2 n cpt capital	1.000000
+0 e n1 posit fmst 7 n2 posit fmst 7	13.000000
+1 e n2 n posit avg 10	11.000000
+0 e rel fst ARG0-of	1.000000
+0 e n2 n cpt government-organization	1.000000
+0 n cpt catch-02	1.000000
+0 e n1 n cpt more-than	2.000000
+0 e posit fmst 7	61.000000
+1 e n2 n cpt date-entity_:year_2002	1.000000
+1 e n1 posit fmst 8 n2 posit fmst 9	1.000000
+1 e n2 n cpt hang-01	2.000000
+0 n dep fmst 5	17.000000
+1 e n1 n posit avg 15	0.000000
+1 n cpt date-entity_:day_16_:month_1_:year_2007	1.000000
+1 e n2 n cpt cane	1.000000
+0 e n2 n dep avg 3	69.000000
+0 e rel fst path	1.000000
+0 e n1 dep fmst 1 n2 dep fmst 1	2.000000
+0 e rel fst ARG1 p2	28.000000
+0 n span avg 2	0.000000
+1 e rel fst manner	1.000000
+1 e rel fst location-of p1	1.000000
+0 e rel fst path p2	1.000000
+0 e rel fst prep-for	1.000000
+1 e n1 posit fmst 4 n2 posit fmst 5	1.000000
+0 e n2 n freq 1	87.000000
+1 e n2 n dep avg 3	69.000000
+0 n cpt contrast-01	1.000000
+1 e n2 n dep avg 1	87.000000
+1 e n2 n freq 10	0.000000
+0 e rel fst concession p1	1.000000
+1 e rel fst location p1	2.000000
+0 n cpt cannabis	1.000000
+1 e n2 n dep avg 5	24.000000
+0 e rel fst time p1	5.000000
+0 e rel fst condition p2	1.000000
+1 e rel fst time p1	5.000000
+1 e n1 dep fmst 3 n2 dep fmst 1	1.000000
+1 n span avg 1	0.000000
+0 e n2 n cpt publicize-01	1.000000
+1 n span lgst 2	0.000000
+1 e rel fst ARG0-of p1	1.000000
+0 e n1 n cpt find-01	1.000000
+1 e n2 n span avg 10	0.000000
+0 e n2 n posit fmst 15	0.000000
+0 e n1 posit fmst 7 n2 posit fmst 5	1.000000
+0 e n2 n cpt hang-01	2.000000
+0 n cpt imprison-01	1.000000
+1 e n1 posit fmst 4 n2 posit fmst 4	4.000000
+1 e n2 n cpt charge-05	1.000000
+1 e n1 n cpt at-least	1.000000
+1 n cpt trigger-02	1.000000
+1 e n1 n cpt offence	1.000000
+1 e n1 dep fmst 2 n2 dep fmst 2	1.000000
+1 e n1 posit fmst 7 n2 posit fmst 6	4.000000
+1 e rel fst mod p2	6.000000
+0 e freq 2	3.000000
+1 e n1 posit fmst 10 n2 posit fmst 8	1.000000
+1 e n1 dep fmst 5 n2 dep fmst 3	3.000000
+1 e n1 posit fmst 7 n2 posit fmst 3	1.000000
+0 n span lgst 10	0.000000
+1 e n1 posit fmst 4 n2 posit fmst 10	1.000000
+1 e n2 n cpt public	1.000000
+1 n dep avg 4	34.000000
+0 e n1 dep fmst 4 n2 dep fmst 1	1.000000
+1 e rel fst condition p2	1.000000
+0 e n2 n span avg 5	0.000000
+0 e n1 dep fmst 1 n2 dep fmst 3	3.000000
+1 e n2 n cpt die-01	1.000000
+1 n cpt drug	1.000000
+0 e rel fst instrument p1	1.000000
+0 n cpt date-entity_:month_12_:year_2005	1.000000
+0 n posit avg 6	53.000000
+0 e n2 n span avg 1	0.000000
+1 e n2 n cpt man	1.000000
+0 n cpt date-entity_:year_2002	1.000000
+1 e n2 n cpt capital	1.000000
+1 e rel fst quant p3	5.000000
+0 e rel fst quant p3	5.000000
+0 e n2 n freq 10	0.000000
+0 e n2 n dep fmst 5	20.000000
+0 e freq 1	87.000000
+1 e posit avg 5	81.000000
+0 n cpt escape-01	1.000000
+1 e rel fst ARG0-of	1.000000
+0 e n1 n cpt penalize-01	2.000000
+1 e n1 n freq 5	1.000000
+0 e n2 n cpt country_name_:op1_"Singapore"	4.000000
+1 e rel fst ARG2 p3	9.000000
+1 n cpt smuggle-01	1.000000
+0 n cpt mandatory	1.000000
+1 e rel fst path p1	1.000000
+1 n span lgst 0	68.000000
+0 e n2 n cpt more-than	2.000000
+0 e n1 posit fmst 7 n2 posit fmst 3	1.000000
+1 e n1 n cpt lobby-01	4.000000
+1 e n2 n span avg 2	0.000000
+0 e n2 n cpt crime	1.000000
+0 e rel fst ARG3 p2	1.000000
+0 e n2 n cpt smuggle-01	1.000000
+1 e n2 n cpt cause-01	1.000000
+0 e rel fst prep-for p1	1.000000
+0 e rel fst condition p1	1.000000
+1 e rel fst ARG1	28.000000
+1 e n2 n cpt face-01	1.000000
+1 e n1 dep fmst 4 n2 dep fmst 3	4.000000
+0 e rel fst ARG1-of p2	3.000000
+0 n cpt person_name_:op1_"Michael"_:op2_"Karras"	1.000000
+1 e n2 n cpt imprison-01	1.000000
+1 e n2 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+1 e n2 n cpt offence	1.000000
+1 e rel fst op1 p1	6.000000
+0 n cpt date-entity_:year_2007_:month_1_:day_16	1.000000
+0 e rel fst poss	1.000000
+1 e rel fst ARG1 p3	28.000000
+1 n span lgst 1	0.000000
+1 e freq 5	0.000000
+0 e n2 n cpt possess-01	1.000000
+1 e n1 posit fmst 5 n2 posit fmst 2	1.000000
+1 n cpt find-01	1.000000
+1 e n1 n posit fmst 10	13.000000
+0 e n2 n cpt mandatory	1.000000
+1 n cpt charge-05	1.000000
+0 n cpt heroin	1.000000
+0 e posit avg 15	0.000000
+0 e n1 posit fmst 5 n2 posit fmst 4	2.000000
+1 n cpt be-temporally-at-91	1.000000
+0 e n1 n freq 10	0.000000
+0 e n2 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+1 n cpt escape-01	1.000000
+0 e posit fmst 15	0.000000
+1 e n1 n span avg 0	174.000000
+0 e rel fst op1	6.000000
+0 e n1 n cpt hang-01	3.000000
+0 e n1 posit fmst 10 n2 posit fmst 10	9.000000
+1 e freq 0	0.000000
+1 e n1 n cpt punish-01	1.000000
+1 e n2 n dep fmst 1	87.000000
+0 e rel fst op2 p2	2.000000
+0 e n1 n posit avg 7	56.000000
+1 e n2 n dep fmst 3	60.000000
+1 e n1 n cpt publicize-01	2.000000
+0 e n1 n cpt publicize-01	2.000000
+1 e n1 posit fmst 7 n2 posit fmst 5	1.000000
+1 e posit fmst 15	0.000000
+1 e n1 span lgst 0 n2 span lgst 0	87.000000
+0 e n1 n freq 2	32.000000
+0 e n1 n posit fmst 15	0.000000
+0 e rel fst ARG0	8.000000
+1 e n1 dep fmst 4 n2 dep fmst 1	1.000000
+0 n cpt punish-01	1.000000
+1 e n1 n cpt hang-01	3.000000
+1 e n1 n dep avg 1	87.000000
+1 e rel fst quant	5.000000
+0 e n1 span lgst 0 n2 span lgst 0	87.000000
+1 e posit avg 15	0.000000
+0 e n1 n dep avg 1	87.000000
+0 e n1 n span lgst 0	174.000000
+0 e freq non_null 2	3.000000
+1 e n1 n cpt temporal-quantity	1.000000
+0 e n1 n cpt possess-01	2.000000
+0 n cpt lobby-01	1.000000
+1 e n1 dep fmst 3 n2 dep fmst 6	2.000000
+1 e n1 posit fmst 8 n2 posit fmst 8	5.000000
+1 e n1 posit fmst 9 n2 posit fmst 2	1.000000
+1 e n1 n cpt heroin	1.000000
+0 e rel fst degree	1.000000
+1 e rel fst condition p3	1.000000
+0 e n1 dep fmst 2 n2 dep fmst 5	2.000000
+0 e rel fst ARG1-of	3.000000
+1 n cpt and	1.000000
+0 n cpt person_name_:op1_"Nguyen"	1.000000
+0 n cpt try-01	1.000000
+1 e n1 n cpt more-than	2.000000
+1 n cpt cannabis	1.000000
+0 e n1 n cpt smuggle-01	4.000000
+0 e n1 n cpt show-01	1.000000
+1 e rel fst manner p2	1.000000
+1 n cpt man	1.000000
+1 n cpt subsequent	1.000000
+0 e n2 n cpt heavy	1.000000
+0 e n1 dep fmst 5 n2 dep fmst 3	3.000000
+0 e n2 n span avg 10	0.000000
+0 n cpt narcotic	1.000000
+1 e n2 n cpt possess-01	1.000000
+1 e rel fst instrument p2	1.000000
+1 e n1 n dep fmst 3	43.000000
+1 e n1 n posit avg 6	63.000000
+0 e n2 n posit fmst 6	53.000000
+0 e n2 n span avg 2	0.000000
+1 e n1 n dep fmst 1	87.000000
+0 e n2 n span avg 0	174.000000
+0 n cpt country_name_:op1_"Australia"	1.000000
+0 e n1 n cpt anyone	1.000000
+1 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+0 e n1 n posit avg 15	0.000000
+1 n cpt show-01	1.000000
+0 e n2 n cpt show-01	1.000000
+1 e n1 posit fmst 4 n2 posit fmst 2	1.000000
+0 e n2 n cpt penalize-01	1.000000
+1 e n1 posit fmst 8 n2 posit fmst 10	1.000000
+1 e n2 n span lgst 1	0.000000
+0 e n1 n cpt mandatory	1.000000
+1 e rel fst ARG3 p3	1.000000
+1 e rel fst op2 p1	2.000000
+0 n cpt find-01	1.000000
+0 e n2 n cpt narcotic	1.000000
+0 e rel fst time	5.000000
+1 e rel fst location-of p3	1.000000
+0 n freq 0	0.000000
+0 e n2 n span lgst 0	174.000000
+1 e rel fst ARG1-of p2	3.000000
+0 e n1 n dep fmst 5	10.000000
+0 n cpt charge-05	1.000000
+1 e rel fst prep-for p1	1.000000
+1 e n1 n cpt penalize-01	2.000000
+1 e n2 n cpt narcotic	1.000000
+0 e n1 n span lgst 10	0.000000
+1 e n2 n cpt subsequent	1.000000
+1 e n1 n cpt and	5.000000
+0 e n2 n freq 0	0.000000
+1 e n2 n posit fmst 5	68.000000
+0 e n2 n freq 5	10.000000
+1 e n2 n cpt smuggle-01	1.000000
+0 e n2 n cpt date-entity_:day_9_:month_1_:year_2007	1.000000
+1 e n2 n posit fmst 7	44.000000
+0 n freq 10	0.000000
+0 e rel fst ARG2	9.000000
+1 n span lgst 5	0.000000
+1 e n1 dep fmst 5 n2 dep fmst 4	1.000000
+1 e rel fst manner p1	1.000000
+0 e n2 n cpt outrage-01	1.000000
+0 e n2 n cpt subsequent	1.000000
+0 e n1 posit fmst 5 n2 posit fmst 5	11.000000
+0 n cpt govern-01	1.000000
+0 n cpt after	1.000000
+0 e n1 n span avg 5	0.000000
+0 e n1 n freq 0	0.000000
+0 e n1 dep fmst 3 n2 dep fmst 2	3.000000
+0 n freq 5	2.000000
+0 e n1 n span avg 0	174.000000
+1 e n1 n cpt smuggle-01	4.000000
+1 n cpt minimum	1.000000
+0 e n1 n span avg 2	0.000000
+1 n dep avg 5	19.000000
+1 e n2 n cpt date-entity_:day_16_:month_1_:year_2007	1.000000
+1 e rel fst ARG0 p3	8.000000
+1 e n1 posit fmst 7 n2 posit fmst 4	1.000000
+0 e rel fst ARG1 p1	28.000000
+1 e rel fst unit p2	2.000000
+0 e n2 n cpt heroin	1.000000
+1 e n1 n cpt man	1.000000
+1 e n1 n posit fmst 5	71.000000
+1 n posit fmst 5	58.000000
+1 e n2 n posit avg 7	60.000000
+1 n span lgst 10	0.000000
+0 e n2 n posit avg 7	60.000000
+1 e n2 n posit avg 5	84.000000
+1 e n1 n freq 2	32.000000
+0 e n2 n posit avg 5	84.000000
+1 e n2 n cpt strike-01	1.000000
+1 n span avg 2	0.000000
+1 e rel fst location p2	2.000000
+1 n dep avg 1	68.000000
+0 e rel fst degree p1	1.000000
+0 e n1 n posit avg 6	63.000000
+0 e rel fst condition p3	1.000000
+1 n cpt clemency	1.000000
+0 e n1 posit fmst 10 n2 posit fmst 4	2.000000
+0 e n1 n cpt escape-01	2.000000
+1 e rel fst ARG0-of p2	1.000000
+0 e freq non_null 0	0.000000
+1 e freq non_null 5	0.000000
+1 e rel fst concession	1.000000
+1 e n2 n dep avg 4	46.000000
+0 e n1 n span lgst 5	0.000000
+1 e n1 n freq 1	87.000000
+0 e n1 posit fmst 5 n2 posit fmst 7	1.000000
+1 e n2 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+1 e posit fmst 6	67.000000
+1 e rel fst mod p3	6.000000
+0 e n1 n cpt punish-01	1.000000
+0 e n1 n dep avg 4	32.000000
+0 n cpt convict-01	1.000000
+0 e rel fst ARG0 p1	8.000000
+0 n cpt gram	1.000000
+1 e n2 n cpt heavy	1.000000
+0 e n2 n cpt face-01	1.000000
+0 e n1 n dep fmst 1	87.000000
+0 e bias	87.000000
+1 e n1 n span lgst 1	0.000000
+0 n cpt at-least	1.000000
+1 e n1 n cpt imprison-01	2.000000
+1 n cpt heavy	1.000000
+1 n cpt country_name_:op1_"Singapore"	1.000000
+1 n cpt after	1.000000
+0 n cpt date-entity_:day_16_:month_1_:year_2007	1.000000
+0 n posit avg 10	12.000000
+0 n cpt strike-01	1.000000
+0 e n2 n cpt gram	1.000000
+1 e n1 posit fmst 3 n2 posit fmst 3	2.000000
+1 e freq non_null 10	0.000000
+1 e rel fst quant p2	5.000000
+1 e n2 n cpt convict-01	1.000000
+0 e rel fst manner p3	1.000000
+0 e rel fst concession p2	1.000000
+0 e n2 n cpt imprison-01	1.000000
+0 e n1 dep fmst 2 n2 dep fmst 2	1.000000
+1 e n1 posit fmst 5 n2 posit fmst 4	2.000000
+1 e rel fst time p2	5.000000
+1 e rel fst ARG2 p2	9.000000
+0 e n1 n cpt govern-01	1.000000
+1 e rel fst prep-for	1.000000
+0 n cpt die-01	1.000000
+1 e rel fst path p2	1.000000
+1 e n2 n cpt crime	1.000000
+0 e n1 posit fmst 9 n2 posit fmst 5	1.000000
+0 e n1 n cpt lobby-01	4.000000
+0 e rel fst path p3	1.000000
+1 e n2 n cpt more-than	2.000000
+1 e n1 posit fmst 9 n2 posit fmst 4	1.000000
+1 n cpt year	1.000000
+0 e rel fst ARG2 p1	9.000000
+1 e n2 n cpt temporal-quantity	2.000000
+1 n cpt public	1.000000
+0 e rel fst location-of p2	1.000000
+0 n dep fmst 2	59.000000
+1 n span avg 10	0.000000
+0 e rel fst manner p1	1.000000
+0 e n1 dep fmst 1 n2 dep fmst 2	16.000000
+1 e n2 n cpt country_name_:op1_"Singapore"	4.000000
+0 e n2 n cpt find-01	1.000000
+0 e n1 posit fmst 9 n2 posit fmst 2	1.000000
+0 e freq 0	0.000000
+0 e n1 dep fmst 3 n2 dep fmst 6	2.000000
+0 e rel fst ARG1-of p3	3.000000
+1 n bias	68.000000
+1 e n1 posit fmst 5 n2 posit fmst 5	11.000000
+0 e n1 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+1 n freq 0	0.000000
+0 e n1 n cpt outrage-01	2.000000
+1 n date-ent	5.000000
+1 e n2 n span avg 1	0.000000
+1 e n1 n span lgst 10	0.000000
+0 n cpt face-01	1.000000
+0 e n1 posit fmst 5 n2 posit fmst 2	1.000000
+1 e n1 posit fmst 9 n2 posit fmst 5	1.000000
+1 e n1 dep fmst 1 n2 dep fmst 4	3.000000
+0 n dep avg 2	61.000000
+1 e n1 n freq 0	0.000000
+0 e n2 n cpt die-01	1.000000
+1 e n2 n cpt traffic-00	3.000000
+1 e n1 posit fmst 10 n2 posit fmst 4	2.000000
+1 e n1 dep fmst 3 n2 dep fmst 4	10.000000
+0 e n1 dep fmst 6 n2 dep fmst 7	1.000000
+0 n cpt crime	1.000000
+1 e n2 n span lgst 2	0.000000
+1 n cpt traffic-00	1.000000
+0 e rel fst mod p3	6.000000
+1 n dep fmst 1	68.000000
+1 e n1 n posit fmst 6	55.000000
+0 e n1 n cpt temporal-quantity	1.000000
+0 e n1 n cpt offence	1.000000
+0 e n1 n cpt at-least	1.000000
+0 e rel fst ARG0-of p3	1.000000
+0 e n2 n cpt clemency	1.000000
+1 e rel fst op1	6.000000
+0 e n2 n posit avg 6	71.000000
+1 e n1 n span avg 5	0.000000
+0 e n1 n cpt execute-01	3.000000
+0 e rel fst op2 p3	2.000000
+0 e rel fst ARG3 p1	1.000000
+1 e posit fmst 7	61.000000
+1 e n2 n cpt person_name_:op1_"Nguyen"	3.000000
+1 e n1 n span avg 1	0.000000
+1 e n2 n cpt person_name_:op1_"Michael"_:op2_"Karras"	2.000000
+0 e n1 dep fmst 1 n2 dep fmst 4	3.000000
+0 e n1 n posit avg 5	86.000000
+1 e n2 n dep fmst 2	81.000000
+1 e n2 n dep fmst 4	34.000000
+0 e n1 n cpt traffic-00	2.000000
+0 e n1 n cpt heroin	1.000000
+0 e n1 posit fmst 8 n2 posit fmst 4	1.000000
+1 e n1 n cpt mass-quantity	1.000000
+0 e n1 posit fmst 4 n2 posit fmst 5	1.000000
+0 e n1 n cpt be-temporally-at-91	2.000000
+0 n cpt capital	1.000000
+0 e n1 n span lgst 2	0.000000
+0 e n1 n cpt drug	1.000000
+1 e n1 n dep avg 2	68.000000
+0 e n2 n cpt escape-01	1.000000
+1 e n1 n dep avg 4	32.000000
+0 e n1 n cpt outlaw-01	1.000000
+0 n cpt anyone	1.000000
+1 e n2 n cpt mandatory	1.000000
+1 n cpt contrast-01	1.000000
+0 e n2 n cpt year	1.000000
+1 n cpt cane	1.000000
+1 n cpt offence	1.000000
+1 e n1 dep fmst 5 n2 dep fmst 6	4.000000
+0 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+1 e rel fst instrument p3	1.000000
+0 e n2 n cpt control-01	1.000000
+0 e rel fst op1 p3	6.000000
+0 e n1 dep fmst 5 n2 dep fmst 4	1.000000
+1 n posit avg 5	64.000000
+0 n posit avg 15	0.000000
+1 e n1 n posit avg 5	86.000000
+1 e n2 n cpt date-entity_:month_12_:year_2005	1.000000
+1 e n1 n dep fmst 2	63.000000
+1 e n1 n posit avg 7	56.000000
+0 n posit fmst 7	43.000000
+1 e rel fst location-of p2	1.000000
+1 n freq 10	0.000000
+0 e n2 n cpt mass-quantity	3.000000
+0 e is_null	0.000000
+1 e n2 n freq 1	87.000000
+0 n cpt man	1.000000
+0 e posit avg 10	16.000000
+0 e n2 n dep fmst 2	81.000000
+0 e n2 n span lgst 5	0.000000
+0 n bias	68.000000
+1 e rel fst degree	1.000000
+0 e freq non_null 1	87.000000
+1 n cpt lobby-01	1.000000
+0 e n1 n cpt cause-01	1.000000
+0 e n2 n span lgst 2	0.000000
+0 e n1 n cpt after	2.000000
+1 e rel fst prep-for p2	1.000000
+1 e n2 n cpt lobby-01	1.000000
+1 n freq 1	68.000000
+0 e n1 n dep fmst 3	43.000000
+1 e n1 n cpt outrage-01	2.000000
+0 e n1 posit fmst 6 n2 posit fmst 4	1.000000
+0 n posit avg 7	47.000000
+0 e n2 n cpt person_name_:op1_"Karras"	6.000000
+0 e n1 dep fmst 4 n2 dep fmst 5	11.000000
+1 e n2 n posit fmst 6	53.000000
+1 e posit fmst 10	16.000000
+1 e n1 n cpt mandatory	1.000000
+0 e posit avg 7	62.000000
+0 e n2 n cpt charge-05	1.000000
+1 e n2 n freq 2	40.000000
+1 e rel fst location	2.000000
+1 n cpt penalize-01	1.000000
+0 e n2 n cpt man	1.000000
+1 e n1 dep fmst 6 n2 dep fmst 7	1.000000
+0 e n1 n cpt trigger-02	2.000000
+0 e n1 posit fmst 9 n2 posit fmst 4	1.000000
+0 e n1 n span avg 10	0.000000
+1 e rel fst ARG1-of	3.000000
+0 e n1 posit fmst 8 n2 posit fmst 7	1.000000
+1 e n1 posit fmst 8 n2 posit fmst 7	1.000000
+1 e n2 n cpt government-organization	1.000000
+1 e rel fst ARG0 p2	8.000000
+1 e n1 n cpt contrast-01	2.000000
+1 n cpt strike-01	1.000000
+0 e n1 dep fmst 3 n2 dep fmst 4	10.000000
+0 e n2 n cpt public	1.000000
+1 e n1 n cpt charge-05	6.000000
+0 n span lgst 1	0.000000
+0 e freq 5	0.000000
+1 e n1 posit fmst 4 n2 posit fmst 6	4.000000
+1 e n2 n cpt and	1.000000
+0 e rel fst manner	1.000000
+1 e rel fst ARG1-of p1	3.000000
+0 e n1 n cpt cannabis	2.000000
+1 n posit fmst 15	0.000000
+0 e rel fst prep-for p2	1.000000
+1 e n1 n posit fmst 7	54.000000
+1 e n1 n cpt convict-01	1.000000
+1 e n2 n posit avg 6	71.000000
+1 e rel fst location p3	2.000000
+1 n cpt publicize-01	1.000000
+0 e n1 n posit avg 10	13.000000
+0 e n1 n cpt state-01	4.000000
+0 e n2 n cpt catch-02	1.000000
+0 e rel fst time p3	5.000000
+0 n cpt government-organization_name_:op1_"Central"_:op2_"Narcotics"_:op3_"Bureau"	1.000000
+1 n cpt government-organization	1.000000
+1 e n2 n span lgst 10	0.000000
+1 e n2 n cpt publicize-01	1.000000
+0 e n2 n span lgst 10	0.000000
+0 e n1 n cpt country_name_:op1_"Australia"	1.000000
+1 e n2 n cpt punish-01	1.000000
+1 n cpt face-01	1.000000
+0 e n1 dep fmst 2 n2 dep fmst 3	15.000000
+0 e n2 n dep avg 4	46.000000
+0 n cpt year	1.000000
+0 n dep avg 4	34.000000
+1 e posit avg 7	62.000000
+0 n cpt state-01	1.000000
+1 e n1 dep fmst 2 n2 dep fmst 3	15.000000
+0 e freq non_null 10	0.000000
+0 e n1 n cpt government-organization	1.000000
+0 e rel fst unit p1	2.000000
+1 e n1 dep fmst 6 n2 dep fmst 2	1.000000
+1 e rel fst poss p2	1.000000
+0 e rel fst ARG0 p2	8.000000
+0 n span avg 10	0.000000
+0 e n1 n posit fmst 6	55.000000
+0 e n2 n cpt person_name_:op1_"Michael"_:op2_"Karras"	2.000000
+0 e n1 n posit fmst 5	71.000000
+0 e n2 n cpt person_name_:op1_"Nguyen"	3.000000
+0 n cpt trigger-02	1.000000
+1 e n1 posit fmst 8 n2 posit fmst 5	1.000000
+1 e rel fst unit p1	2.000000
+0 e n1 n dep avg 2	68.000000
+1 e freq 1	87.000000
+0 e n2 n cpt cane	1.000000
+0 n cpt and	1.000000
+0 e rel fst location	2.000000
+1 e n1 n span lgst 2	0.000000
+1 e n1 posit fmst 5 n2 posit fmst 7	1.000000
+1 e n2 n cpt clemency	1.000000
+1 e n1 n span lgst 0	174.000000
+0 e rel fst concession	1.000000
+1 n posit fmst 6	47.000000
+0 e n2 n cpt try-01	1.000000
+0 e rel fst manner p2	1.000000
+1 n cpt arrest-01	1.000000
+1 e n1 dep fmst 4 n2 dep fmst 5	11.000000
+0 e n2 n cpt and	1.000000
+0 e rel fst degree p2	1.000000
+0 n cpt cause-01	1.000000
+1 e n1 n cpt govern-01	1.000000
+1 e n1 n cpt face-01	2.000000
+1 e rel fst time p3	5.000000
+0 e rel fst unit	2.000000
+0 n dep fmst 3	44.000000
+1 n cpt possess-01	1.000000
+1 e rel fst path	1.000000
+1 e n1 dep fmst 3 n2 dep fmst 2	3.000000
+1 e n1 posit fmst 8 n2 posit fmst 4	1.000000
+1 e rel fst path p3	1.000000
+0 n cpt publicize-01	1.000000
+1 e n1 n cpt person_name_:op1_"Michael"_:op2_"Karras"	1.000000
+1 e n1 n cpt trigger-02	2.000000
+1 n posit fmst 10	12.000000
+0 e n1 dep fmst 2 n2 dep fmst 1	2.000000
+1 n cpt outrage-01	1.000000
+0 e rel fst quant	5.000000
+0 n cpt clemency	1.000000
+1 n cpt anyone	1.000000
+0 e n2 n cpt country_name_:op1_"Australia"	6.000000
+0 e rel fst prep-for p3	1.000000
+1 e n1 n dep avg 3	48.000000
+0 e n2 n dep fmst 1	87.000000
+0 n posit fmst 6	47.000000
+0 e n2 n dep fmst 3	60.000000
+1 e n2 n cpt find-01	1.000000
+0 n posit fmst 15	0.000000
+1 e n1 n cpt after	2.000000
+0 n cpt temporal-quantity	1.000000
+0 e rel fst instrument p2	1.000000
+1 e rel fst mod	6.000000
+1 e rel fst op1 p3	6.000000
+1 e n1 n cpt try-01	2.000000
+0 e rel fst instrument p3	1.000000
+1 e n1 n posit avg 10	13.000000
+1 n cpt country_name_:op1_"Australia"	1.000000
+1 e n1 n cpt arrest-01	4.000000
+0 e n1 n cpt strike-01	2.000000
+0 e rel fst quant p1	5.000000
+1 e n2 n cpt cannabis	2.000000
+0 n cpt high	1.000000
+1 n cpt gram	1.000000
+1 e n2 n span avg 0	174.000000
+1 e n2 n cpt mass-quantity	3.000000
+0 n cpt execute-01	1.000000
+1 n cpt person_name_:op1_"Michael"_:op2_"Karras"	1.000000
+1 e n1 dep fmst 1 n2 dep fmst 3	3.000000
+0 e n2 n cpt high	1.000000
+0 e rel fst mod p2	6.000000
+0 e n1 n cpt man	1.000000
+1 e rel fst ARG2 p1	9.000000
+0 n span avg 5	0.000000
+0 e n2 n cpt convict-01	1.000000
+1 n dep avg 2	61.000000
+0 e rel fst ARG0-of p2	1.000000
+0 e rel fst location-of p1	1.000000
+1 n cpt control-01	1.000000
+0 e rel fst ARG2 p2	9.000000
+1 n cpt die-01	1.000000
+0 e n2 n freq 2	40.000000
+0 e n2 n cpt govern-01	1.000000
+1 e freq 10	0.000000
+1 e n2 n cpt year	1.000000
+0 e posit avg 6	68.000000
+1 e rel fst concession p2	1.000000
+1 n cpt catch-02	1.000000
+0 e rel fst location-of	1.000000
+0 e n1 posit fmst 10 n2 posit fmst 8	1.000000
+0 n cpt heavy	1.000000
+0 e rel fst poss p3	1.000000
+1 e n1 n cpt outlaw-01	1.000000
+1 e rel fst ARG0	8.000000
+1 n cpt hang-01	1.000000
+1 n cpt heroin	1.000000
+0 e n1 n cpt mass-quantity	1.000000
+0 n cpt drug	1.000000
+0 e n1 posit fmst 7 n2 posit fmst 6	4.000000
+1 e rel fst ARG1 p1	28.000000
+1 e n1 n span avg 2	0.000000
+0 n span lgst 0	68.000000
+0 n nam-ent	12.000000
+1 e n1 n cpt traffic-00	2.000000
+1 e rel fst location-of	1.000000
+1 e n1 dep fmst 3 n2 dep fmst 3	1.000000
+1 n cpt imprison-01	1.000000
+1 e rel fst degree p3	1.000000
+1 e n2 n dep fmst 5	20.000000
+1 n cpt capital	1.000000
+1 e rel fst ARG3	1.000000
+1 e n2 n freq 5	10.000000
+1 e n1 dep fmst 1 n2 dep fmst 1	2.000000
+1 n posit avg 15	0.000000
+0 n freq 1	68.000000
+1 e n1 n dep avg 5	13.000000
+1 n posit avg 6	53.000000
+1 e rel fst degree p1	1.000000
+1 e n1 n cpt execute-01	3.000000
+0 e rel fst op1 p2	6.000000
+0 e n1 posit fmst 3 n2 posit fmst 3	2.000000
+1 e rel fst instrument	1.000000
+0 e n1 n dep avg 5	13.000000
+1 e freq non_null 1	87.000000
+0 e n1 n cpt convict-01	1.000000
+1 n cpt date-entity_:year_2007_:month_1_:day_16	1.000000
+0 e n2 n cpt arrest-01	2.000000
+0 e freq 10	0.000000
+1 n cpt narcotic	1.000000
+1 e rel fst ARG3 p1	1.000000
+1 e rel fst op2 p3	2.000000
+0 n cpt control-01	1.000000
+0 e n1 posit fmst 8 n2 posit fmst 8	5.000000
+0 e n1 posit fmst 8 n2 posit fmst 5	1.000000
+0 n cpt outrage-01	1.000000
+1 e freq 2	3.000000
+0 e rel fst instrument	1.000000
+0 e n1 posit fmst 5 n2 posit fmst 6	1.000000
+1 e n2 n posit avg 15	0.000000
+0 e n1 n freq 1	87.000000
+0 e n2 n posit avg 15	0.000000
+0 e n2 n posit fmst 5	68.000000
+0 e n2 n cpt drug	1.000000
+0 e n2 n posit fmst 7	44.000000
+1 e rel fst condition p1	1.000000
+1 e rel fst unit p3	2.000000
+1 e n1 n dep fmst 5	10.000000
+1 n posit fmst 7	43.000000
+1 e n2 n cpt gram	1.000000
+1 e bias	87.000000
+1 e n1 dep fmst 1 n2 dep fmst 2	16.000000
+0 e rel fst location p3	2.000000
+0 e n1 n cpt arrest-01	4.000000
+0 n cpt subsequent	1.000000
+1 e rel fst ARG0-of p3	1.000000
+1 n freq 5	2.000000
+1 e rel fst ARG2	9.000000
+1 e n1 posit fmst 10 n2 posit fmst 2	1.000000
+1 e n2 n span lgst 5	0.000000
+1 e n1 n freq 10	0.000000
+1 n dep avg 3	47.000000
+0 n cpt offence	1.000000
+0 e n2 n cpt temporal-quantity	2.000000
+1 e rel fst unit	2.000000
+0 n span avg 1	0.000000
+0 e n1 n dep fmst 2	63.000000
+1 e n1 dep fmst 2 n2 dep fmst 1	2.000000
+1 e rel fst ARG0 p1	8.000000
+1 e rel fst op1 p2	6.000000
+1 e rel fst time	5.000000
+1 e rel fst prep-for p3	1.000000
+1 n nam-ent	12.000000
+1 e n1 posit fmst 5 n2 posit fmst 6	1.000000
+0 e n2 n cpt anyone	1.000000
+0 e n1 dep fmst 5 n2 dep fmst 6	4.000000
+0 n cpt public	1.000000
+1 n cpt more-than	1.000000
+0 e n2 n cpt traffic-00	3.000000
+1 e n2 n cpt anyone	1.000000
+1 n cpt outlaw-01	1.000000
+0 n cpt be-temporally-at-91	1.000000
+1 e n2 n cpt person_name_:op1_"Karras"	6.000000
+0 e rel fst poss p2	1.000000
+0 e n1 n cpt face-01	2.000000
+1 e n2 n cpt control-01	1.000000
+1 n cpt try-01	1.000000
+0 e n1 n span avg 1	0.000000
+0 e rel fst time p2	5.000000
+1 n cpt high	1.000000
+1 e n2 n posit fmst 10	11.000000
+0 n cpt penalize-01	1.000000
+1 e n1 n cpt find-01	1.000000
+0 e rel fst mod	6.000000
+0 e rel fst location p2	2.000000
+0 e rel fst ARG1	28.000000
+0 n span avg 0	68.000000
+1 e n2 n cpt govern-01	1.000000
+0 e n2 n dep avg 2	86.000000
+0 e rel fst ARG3	1.000000
+0 e n2 n dep avg 1	87.000000
+0 n posit fmst 5	58.000000
+1 e n1 n cpt be-temporally-at-91	2.000000
+1 e rel fst mod p1	6.000000
+0 e n1 dep fmst 3 n2 dep fmst 1	1.000000
+1 e n2 n cpt outrage-01	1.000000
+0 e n2 n dep avg 5	24.000000
+0 e rel fst ARG0 p3	8.000000
+1 e n2 n dep avg 2	86.000000
+0 e n1 posit fmst 3 n2 posit fmst 7	3.000000
+1 e n1 n cpt government-organization	1.000000
+0 e n2 n cpt outlaw-01	1.000000
+0 n posit avg 5	64.000000
+0 e posit fmst 6	67.000000
+0 e rel fst ARG1 p3	28.000000
+1 e n1 n cpt escape-01	2.000000
+1 e n2 n cpt outlaw-01	1.000000
+0 n cpt government-organization	1.000000
+0 e posit avg 5	81.000000
+0 e n1 posit fmst 7 n2 posit fmst 4	1.000000
+0 e n1 n posit fmst 7	54.000000
+1 n cpt crime	1.000000
+0 n dep fmst 4	30.000000
+1 e n1 n cpt country_name_:op1_"Australia"	1.000000
+0 e n1 n span lgst 1	0.000000
+0 e n2 n cpt strike-01	1.000000
+0 n cpt country_name_:op1_"Singapore"	1.000000
+0 e rel fst op2	2.000000
+0 e rel fst degree p3	1.000000
+1 n dep fmst 2	59.000000
+0 n date-ent	5.000000
+0 n cpt cane	1.000000
+1 e n2 n cpt heroin	1.000000
+1 n cpt date-entity_:month_12_:year_2005	1.000000
+1 e n1 posit fmst 6 n2 posit fmst 4	1.000000
+0 n cpt show-01	1.000000
+0 n cpt outlaw-01	1.000000
+0 e n2 n cpt date-entity_:day_16_:month_1_:year_2007	1.000000
+1 n cpt person_name_:op1_"Nguyen"	1.000000
+1 e n1 n cpt cannabis	2.000000
+0 n cpt date-entity_:day_9_:month_1_:year_2007	1.000000
+1 e n1 n cpt strike-01	2.000000
+0 e n1 posit fmst 4 n2 posit fmst 2	1.000000
+1 e n1 n span lgst 5	0.000000
+0 e rel fst path p1	1.000000
+1 n cpt date-entity_:year_2002	1.000000
+0 n freq 2	17.000000
+0 e n1 posit fmst 4 n2 posit fmst 10	1.000000
+0 e n1 n cpt charge-05	6.000000
+0 e n2 n cpt at-least	1.000000
+0 e n2 n cpt offence	1.000000
+0 e n1 posit fmst 4 n2 posit fmst 6	4.000000
+1 n span avg 0	68.000000
+0 e rel fst unit p2	2.000000
+0 n cpt smuggle-01	1.000000
+0 e posit fmst 10	16.000000
+1 n dep fmst 3	44.000000
+0 e rel fst ARG1-of p1	3.000000
+1 n cpt state-01	1.000000
+1 e n1 n posit fmst 15	0.000000
+1 e n2 n cpt after	1.000000
+1 e n2 n cpt date-entity_:day_9_:month_1_:year_2007	1.000000
+1 e n1 dep fmst 2 n2 dep fmst 5	2.000000
+1 n cpt person_name_:op1_"Karras"	1.000000
+1 e n1 n cpt person_name_:op1_"Nguyen"_:op2_"Tuong"_:op3_"Van"	1.000000
+0 e n1 n cpt and	5.000000
+0 n dep avg 5	19.000000
+0 e rel fst quant p2	5.000000
+0 e n1 n cpt try-01	2.000000
+1 e n2 n cpt at-least	1.000000
+1 e n1 n span avg 10	0.000000
+1 e n2 n cpt minimum	1.000000
+1 e posit avg 10	16.000000
+1 e n2 n posit fmst 15	0.000000
+0 n span lgst 2	0.000000
+1 e n2 n cpt escape-01	1.000000
+1 e n2 n span avg 5	0.000000
+0 e n2 n cpt minimum	1.000000
+1 e n2 n cpt penalize-01	1.000000
+0 e n1 n posit fmst 10	13.000000
+1 e n2 n cpt show-01	1.000000
+0 e n1 n cpt person_name_:op1_"Michael"_:op2_"Karras"	1.000000
+0 e freq non_null 5	0.000000
+0 e rel fst ARG0-of p1	1.000000
+1 e is_null	0.000000
+1 e rel fst manner p3	1.000000
+0 e rel fst ARG2 p3	9.000000
+0 e rel fst location-of p3	1.000000
+1 n cpt govern-01	1.000000
+0 e rel fst op2 p1	2.000000
+0 e rel fst ARG3 p3	1.000000
+1 e n1 n cpt show-01	1.000000
+1 e posit avg 6	68.000000
+1 n cpt convict-01	1.000000
+1 e n2 n cpt drug	1.000000
+1 e n2 n cpt arrest-01	2.000000
+0 e n2 n posit avg 10	11.000000
+0 e n1 n cpt imprison-01	2.000000
+1 e rel fst condition	1.000000
+1 e n2 n cpt try-01	1.000000
+0 e n1 dep fmst 4 n2 dep fmst 3	4.000000

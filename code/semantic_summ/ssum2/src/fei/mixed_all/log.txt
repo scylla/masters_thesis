@@ -1,0 +1,9 @@
+DEBUG:root:building corpus [body file]: /Users/amit/Desktop/Thesis/jamr/biocorpus/amr_parsing/data/amr-release-1.0-dev-proxy/test.txt
+Traceback (most recent call last):
+  File "linear_corpus.py", line 690, in <module>
+    buildLinearCorpusAndWriteToFile(os.path.join(input_dir, body_file), output_file='output_file')
+  File "linear_corpus.py", line 270, in buildLinearCorpusAndWriteToFile
+    tGraph.createGraph(my_edges, inst.nodes)
+  File "linear_corpus.py", line 80, in createGraph
+    for k_edge, v_edge in edgee_list.iteritems():
+NameError: global name 'edgee_list' is not defined

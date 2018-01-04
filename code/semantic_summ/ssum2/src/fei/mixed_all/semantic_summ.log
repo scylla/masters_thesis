@@ -1,0 +1,4 @@
+DEBUG:root:start training...
+DEBUG:root:[settings]: perceptron_1_passes_len_edges_exp_0
+DEBUG:root:building corpus [body file]: /Users/gohan/Desktop/Thesis/jamr/biocorpus/amr_parsing/data/jamr/train/amr-release-1.0-cleaned-proxy.aligned
+DEBUG:root:building corpus [summ file]: /Users/gohan/Desktop/Thesis/jamr/biocorpus/amr_parsing/data/jamr/train/amr-release-1.0-cleaned-summary.aligned

@@ -1,0 +1,561 @@
+(m0 / multi-sentence
+	:snt1 (a0 / -VERB-01
+		:ARG0 (a1 / -SURF-
+			:quant (m1 / many))
+		:ARG1 (t0 / thing
+			:manner-of (t1 / thing
+				:manner-of (t2 / thing
+					:manner-of (a2 / -VERB-01
+						:ARG1 (t3 / thing
+							:ARG2-of (a3 / -VERB-01
+								:ARG1 (y0 / you)))))))
+		:op2 (a4 / -VERB-01
+			:ARG0 (y1 / you)
+			:ARG1 (a5 / -VERB-01
+				:ARG1 (y2 / you)))
+		:op3 (a6 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a7 / -VERB-01
+				:ARG0 (i0 / i))
+			:manner (a8 / -SURF-))))
+
+(a0 / -VERB-01
+	:ARG0 (p0 / person
+		:mod (a1 / -SURF-)
+		:quant -CONST-)
+	:ARG1 (o0 / one
+		:quant -CONST-
+		:mod (t0 / too))
+	:time (E0 / ENT_date-entity
+		:month -CONST-
+		:day -CONST-)
+	:location (a2 / -SURF-))
+
+(a0 / -SURF-
+	:domain (y0 / you))
+
+(a0 / -VERB-01
+	:ARG1 (a1 / -SURF-
+		:mod (a2 / -SURF-)
+		:domain (p0 / person
+			:mod (a3 / -SURF-)))
+	:ARG2 (a4 / -SURF-
+		:mod (a5 / -SURF-)
+		:domain (p1 / person
+			:mod (a6 / -SURF-)
+			:mod (a7 / -SURF-))
+		:mod (s0 / still)))
+
+(a0 / -VERB-01
+	:mode (i0 / imperative)
+	:ARG0 (y0 / you)
+	:ARG1 (a1 / -SURF-
+		:mod (a2 / -SURF-))
+	:condition (a3 / and
+		:op1 (a4 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a5 / -SURF-
+				:mod (a6 / -SURF-)))
+		:op2 (a7 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a8 / and
+				:op1 (N0 / NE_person)
+				:op2 (N1 / NE_person))
+			:ARG2 (t0 / thing
+				:ARG1-of (a9 / -VERB-01
+					:ARG0 (f0 / foreign))))))
+
+(i0 / include-91
+	:ARG1 (N0 / NE_country)
+	:ARG2 (a0 / -SURF-
+		:part-of (a1 / and
+			:op1 (a2 / -VERB-01
+				:ARG1 (a3 / -SURF-))
+			:op2 (a4 / -VERB-01
+				:ARG1 -RET-)
+			:mod (a5 / -SURF-)
+			:part-of -RET-)))
+
+(a0 / and
+	:op1 (n0 / need-01
+		:ARG0 (N0 / NE_country)
+		:ARG1 (a1 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a2 / -SURF-
+				:mod (a3 / -SURF-)
+				:mod (a4 / -SURF-))
+			:ARG2 (N1 / NE_country)))
+	:op2 (a5 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (a6 / -SURF-
+			:mod (a7 / -SURF-))
+		:manner -RET-))
+
+(a0 / -VERB-01
+	:ARG1 (g0 / good
+		:mod (t0 / too))
+	:ARG2 (N0 / NE_country)
+	:mod (t1 / too
+		:mode (i0 / interrogative)))
+
+(h0 / have-condition-91
+	:ARG1 (a0 / -SURF-
+		:polarity -)
+	:ARG2 (p0 / person
+		:mod (a1 / -SURF-))
+	:condition (a2 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (a3 / -SURF-)
+		:condition (a4 / and
+			:op1 (a5 / -VERB-01
+				:ARG0 -RET-
+				:ARG1 (a6 / -SURF-
+					:poss -RET-))
+			:op2 (a7 / -VERB-01
+				:polarity -
+				:ARG0 -RET-
+				:ARG1 -RET-))
+		:condition (a8 / -VERB-01
+			:polarity -
+			:ARG0 -RET-)))
+
+(a0 / and
+	:op2 (p0 / possible-01
+		:mode (i0 / imperative)
+		:ARG0 (y0 / you)
+		:ARG1 (t0 / thing
+			:ARG1-of (o0 / opine-01
+				:ARG0 (i1 / i)))
+		:manner (a1 / -SURF-)))
+
+(a0 / and
+	:op1 (a1 / -VERB-01
+		:ARG1 -RET-)
+	:op2 (a2 / -VERB-01
+		:ARG1 -RET-))
+
+(a0 / -SURF-
+	:degree (v0 / very))
+
+(r0 / recommend-01
+	:ARG1 (a0 / -VERB-01
+		:ARG1 (i0 / it)))
+
+(a0 / -VERB-01
+	:polarity -
+	:ARG0 (p0 / person
+		:mod (s0 / some))
+	:ARG1 (N0 / NE_country)
+	:condition (n0 / need-01
+		:ARG0 -RET-
+		:ARG1 (a1 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 -RET-)
+		:condition (a2 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 -RET-
+			:ARG2 (a3 / -VERB-01
+				:ARG0 -RET-))))
+
+(m0 / multi-sentence
+	:snt1 (a0 / -VERB-01
+		:ARG0 (i0 / i)
+		:ARG1 (a1 / -SURF-
+			:mod (a2 / -SURF-)
+			:mod (a3 / -SURF-))
+		:mod (r0 / really))
+	:snt2 (c0 / contrast-01
+		:ARG1 (a4 / -VERB-01
+			:ARG0 (p0 / person
+				:ARG0-of (a5 / -VERB-01
+					:ARG1 (p1 / person
+						:ARG0-of (a6 / -VERB-01)))))
+		:ARG1 (a7 / -SURF-
+			:domain (p2 / person
+				:ARG0-of (a8 / -VERB-01
+					:ARG1 (a9 / -SURF-))
+				:ARG0-of (a10 / -VERB-01
+					:ARG1 (a11 / -SURF-)))))
+	:snt3 (b0 / become-01
+		:ARG1 (g0 / good
+			:mod (g1 / good)
+			:mod (g2 / good)
+			:poss (y0 / you))
+		:ARG2 (g3 / good
+			:mod (g4 / good)
+			:mod (g5 / good)
+			:domain -RET-)))
+
+(h0 / have-concession-91
+	:ARG1 (r0 / recommend-01
+		:ARG1 (a0 / -VERB-01
+			:ARG0 (p0 / person
+				:ARG1-of (a1 / -VERB-01
+					:ARG0 (p1 / person
+						:ARG1-of (a2 / -VERB-01
+							:ARG0 (p2 / person
+								:ARG0-of (h1 / have-org-role-91
+									:ARG1 (w0 / we)
+									:ARG2 (p3 / person
+										:ARG1-of -RET-)))))
+					:ARG1 -RET-)))
+		:ARG2 (p4 / possible-01
+			:polarity -
+			:ARG1 (a3 / -VERB-01
+				:ARG1 -RET-))
+		:ARG2 (a4 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a5 / -VERB-01
+				:ARG1 -RET-))))
+
+(p0 / possible-01
+	:ARG1 (a0 / -VERB-01
+		:ARG0 (p1 / person
+			:mod (N0 / NE_country)
+			:ARG0-of (h0 / have-org-role-91
+				:ARG1 (N1 / NE_country)
+				:ARG2 (a1 / -SURF-)))
+		:ARG1 (n0 / nation))
+	:manner (a2 / -SURF-))
+
+(a0 / -VERB-01
+	:ARG0 (N0 / NE_person)
+	:ARG1 (a1 / -SURF-
+		:quant (m0 / many))
+	:degree (t0 / too))
+
+(m0 / multi-sentence
+	:snt1 (a0 / -VERB-01
+		:ARG0 (l0 / line
+			:mod (a1 / -SURF-))
+		:ARG1 (a2 / -SURF-)
+		:manner (a3 / -VERB-01
+			:ARG0 -RET-))
+	:snt2 (a4 / -VERB-01
+		:ARG0 (y0 / you)
+		:ARG1 (l1 / line)))
+
+(c0 / contrast-01
+	:ARG1 (c1 / contrast-01
+		:ARG1 (a0 / -VERB-01
+			:polarity -
+			:ARG0 (i0 / i)
+			:ARG1 (t0 / that)))
+	:ARG2 (c2 / contrast-01
+		:ARG1 (p0 / person
+			:ARG0-of (h0 / have-org-role-91
+				:ARG1 (p1 / person
+					:ARG0-of (h1 / have-org-role-91
+						:ARG2 (o0 / official))))
+			:domain (p2 / person
+				:ARG0-of (h2 / have-org-role-91
+					:ARG2 (o1 / official))))))
+
+(a0 / -VERB-01
+	:ARG0 (g0 / group
+		:mod (t0 / this))
+	:ARG1 (a1 / -SURF-
+		:mod (t1 / this)))
+
+(l0 / look-01
+	:ARG0 (i0 / i)
+	:ARG1 (a0 / -SURF-)
+	:mod (j0 / just))
+
+(n0 / need-01
+	:ARG0 (N0 / NE_country)
+	:ARG1 (a0 / -SURF-
+		:mod (a1 / -SURF-)
+		:mod (a2 / -SURF-)
+		:poss (N1 / NE_country))
+	:purpose (n1 / need-01
+		:ARG0 -RET-
+		:ARG1 (a3 / -SURF-
+			:mod (a4 / -SURF-))))
+
+(c0 / contrast-01
+	:ARG1 (a0 / -VERB-01
+		:ARG1 (N0 / NE_country)
+		:ARG2 (a1 / -SURF-
+			:location (N1 / NE_world-region))
+		:mod (a2 / also))
+	:ARG2 (a3 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (a4 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a5 / -SURF-
+				:source (N2 / NE_world-region)))))
+
+(a0 / and
+	:op1 (c0 / change-01
+		:ARG0 (i0 / it)
+		:ARG1 (a1 / -SURF-)
+		:location (a2 / -SURF-
+			:location (N0 / NE_country)))
+	:op2 (c1 / change-01
+		:ARG0 -RET-
+		:ARG1 (a3 / -SURF-
+			:mod (o0 / only)
+			:ARG1-of (r0 / resemble-01
+				:ARG2 (a4 / -SURF-
+					:mod (a5 / -SURF-)))
+			:mod (o1 / only)
+			:ARG1-of (p0 / possible-01)
+			:mod (o2 / only))
+		:mod (o3 / only)))
+
+(m0 / multi-sentence
+	:snt1 (c0 / cause-01
+		:ARG1 (l0 / long-03
+			:ARG1 (a0 / -SURF-
+				:mod (N0 / NE_country))
+			:ARG2 (c1 / court)))
+	:snt2 (c2 / cause-01
+		:ARG0 (a1 / -VERB-01
+			:ARG1 -RET-
+			:ARG2 (a2 / -VERB-01
+				:ARG1 -RET-)
+			:mod (a3 / -SURF-))
+		:ARG1 (a4 / -VERB-01
+			:ARG1 (t0 / this))))
+
+(a0 / -VERB-01
+	:ARG1 (i0 / interest
+		:mod (a1 / -SURF-)))
+
+(a0 / -VERB-01
+	:ARG0 (t0 / this)
+	:ARG1 (a1 / -SURF-
+		:mod (a2 / -SURF-)
+		:part-of (N0 / NE_country))
+	:mod (j0 / just)
+	:mod (j1 / just))
+
+(i0 / include-91
+	:ARG1 (p0 / person
+		:ARG0-of (h0 / have-rel-role-91
+			:ARG2 (a0 / -SURF-)))
+	:ARG2 (a1 / -SURF-
+		:mod (a2 / -SURF-))
+	:ARG1-of (c0 / cause-01
+		:ARG0 (E0 / ENT_amr-unknown)))
+
+(m0 / multi-sentence
+	:snt1 (a0 / -SURF-
+		:snt1 (a1 / -SURF-
+			:domain (a2 / -VERB-01
+				:ARG0 (a3 / -SURF-)))
+		:snt2 (t0 / take-01
+			:ARG0 (w0 / we)
+			:ARG1 (a4 / -SURF-
+				:mod (n0 / nation)))
+		:snt3 (a5 / -VERB-01
+			:ARG0 (w1 / we)
+			:ARG1 (a6 / -SURF-))))
+
+(a0 / -VERB-01
+	:mode (i0 / imperative)
+	:ARG0 (y0 / you)
+	:ARG1 (a1 / -SURF-
+		:mod (a2 / -SURF-))
+	:condition (a3 / and
+		:op1 (a4 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a5 / -SURF-
+				:mod (a6 / -SURF-)))
+		:op2 (a7 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a8 / and
+				:op1 (N0 / NE_person)
+				:op2 (N1 / NE_person))
+			:ARG2 (t0 / thing
+				:ARG1-of (a9 / -VERB-01
+					:ARG0 (f0 / foreign))))))
+
+(s0 / say-01
+	:ARG0 (i0 / i)
+	:ARG1 (h0 / hear-01
+		:ARG0 -RET-
+		:ARG1 (h1 / hear-01
+			:ARG0 -RET-
+			:ARG1 (o0 / one
+				:ARG1-of (i1 / include-91
+					:ARG2 (o1 / one
+						:mod (t0 / that))))
+			:ARG1-of (i2 / include-91
+				:ARG2 (o2 / one
+					:mod (t1 / that))))))
+
+(m0 / multi-sentence
+	:snt1 (a0 / -VERB-01
+		:ARG0 (p0 / person
+			:ARG0-of (h0 / have-org-role-91
+				:ARG1 (g0 / group
+					:ARG0-of (a1 / -VERB-01)
+					:mod -RET-)
+				:ARG2 (a2 / -SURF-
+					:mod (a3 / -SURF-)
+					:mod (a4 / -SURF-))))
+		:ARG1 (a5 / -SURF-
+			:mod (a6 / -SURF-))
+		:ARG2 (a7 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (p1 / person
+				:ARG0-of (a8 / -VERB-01)
+				:ARG0-of (a9 / -VERB-01
+					:ARG1 (a10 / -SURF-
+						:poss -RET-))
+				:ARG0-of (a11 / -VERB-01
+					:ARG1 (a12 / -SURF-
+						:poss -RET-))
+				:ARG0-of (a13 / -VERB-01
+					:ARG1 (a14 / -SURF-
+						:poss -RET-))
+				:ARG0-of (a15 / -VERB-01
+					:ARG1 (a16 / -SURF-
+						:poss -RET-))
+				:ARG0-of (a17 / -VERB-01
+					:ARG1 (a18 / -SURF-
+						:poss -RET-))
+				:ARG0-of (a19 / -VERB-01
+					:ARG1 -RET-)
+				:ARG0-of (a20 / -VERB-01
+					:ARG1 -RET-)
+				:ARG0-of (a21 / -VERB-01
+					:ARG1 -RET-)
+				:ARG0-of (a22 / -VERB-01
+					:ARG1 -RET-)
+				:ARG0-of (a23 / -VERB-01
+					:ARG1 -RET-)))))
+
+(s0 / support-01
+	:ARG2 (N0 / NE_person))
+
+(a0 / -VERB-02
+	:ARG0 (w0 / we)
+	:ARG1 (a1 / and
+		:op1 (a2 / -SURF-
+			:mod (a3 / -SURF-))
+		:op2 (a4 / -SURF-
+			:mod (a5 / -SURF-)))
+	:mod (a6 / -SURF-))
+
+(a0 / and
+	:op1 (a1 / -VERB-01
+		:ARG0 (y0 / you)
+		:ARG1 (a2 / -SURF-
+			:mod (a3 / -SURF-)
+			:mod (l0 / last))
+		:time (a4 / after
+			:op1 (n0 / now)
+			:quant (m0 / multiple
+				:op1 (E0 / ENT_temporal-quantity
+					:quant -CONST-
+					:unit (y1 / year)))))
+	:op2 (k0 / know-01
+		:ARG0 -RET-
+		:ARG1 -RET-))
+
+(a0 / -VERB-01
+	:polarity -
+	:ARG0 (a1 / -SURF-
+		:mod (a2 / -SURF-))
+	:ARG1 (i0 / it)
+	:time (a3 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (w0 / war))
+	:mod (a4 / -SURF-))
+
+(p0 / possible-01
+	:ARG1 (a0 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (a1 / -SURF-)
+		:ARG2 (a2 / -SURF-
+			:mod (a3 / -SURF-)
+			:domain (a4 / -SURF-
+				:mod (a5 / -SURF-))
+			:degree (a6 / -SURF-))
+		:op3 (a7 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a8 / -SURF-)))
+	:ARG2 (a9 / -SURF-
+		:op1 (a10 / -SURF-)))
+
+(a0 / -VERB-10
+	:ARG0 (c0 / company
+		:ARG0-of (m0 / make-01
+			:ARG1 (N0 / NE_political-party)))
+	:ARG1 (t0 / thing
+		:ARG1-of (a1 / -VERB-04)
+		:mod (g0 / good)
+		:domain (i0 / it)
+		:mod (a2 / -SURF-)))
+
+(h0 / have-condition-91
+	:ARG1 (o0 / obligate-01
+		:ARG1 (p0 / person
+			:mod (N0 / NE_country)
+			:mod (a0 / -SURF-)
+			:mod (a1 / -SURF-))
+		:ARG2 (a2 / -SURF-
+			:mod (a3 / -SURF-)))
+	:condition (w0 / want-01
+		:ARG0 (y0 / you)
+		:ARG1 (a4 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a5 / -SURF-
+				:mod (a6 / -SURF-)
+				:mod (a7 / -SURF-)
+				:poss -RET-)))
+	:ARG1-of (c0 / cause-01
+		:ARG0 (a8 / -VERB-01
+			:ARG0 (e0 / everyone
+				:mod (a9 / -SURF-)
+				:ARG1-of (i0 / include-91
+					:ARG2 (p1 / person
+						:ARG0-of (a10 / -VERB-01)
+						:mod (a11 / -SURF-)
+						:ARG1-of (a12 / -VERB-01
+							:ARG3 (a13 / -SURF-))
+						:mod (a14 / -SURF-)))))))
+
+(a0 / -SURF-
+	:mod (N0 / NE_person))
+
+(a0 / -VERB-01
+	:ARG1 (y0 / you)
+	:ARG2 (a1 / -SURF-
+		:mod (a2 / -SURF-))
+	:ARG1-of (i0 / instead-of-91
+		:ARG2 (a3 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a4 / -SURF-)))
+	:ARG1-of (c0 / cause-01
+		:ARG0 (a5 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a6 / -SURF-))))
+
+(a0 / and
+	:op1 (n0 / need-01
+		:ARG0 (N0 / NE_country)
+		:ARG1 (a1 / -VERB-01
+			:ARG0 -RET-
+			:ARG1 (a2 / -SURF-)
+			:manner (a3 / -SURF-)))
+	:op2 (a4 / -VERB-01
+		:ARG0 -RET-
+		:ARG1 (a5 / -SURF-
+			:mod (a6 / -SURF-)
+			:ARG0-of (f0 / fight-01))
+		:prep-without (a7 / -SURF-)))
+
+(m0 / multi-sentence
+	:snt1 (a0 / -SURF-)
+	:snt2 (r0 / recommend-01
+		:ARG1 (r1 / recommend-01
+			:ARG1 (r2 / recommend-01
+				:ARG0 (w0 / we)
+				:ARG1 (a1 / -VERB-01
+					:ARG0 (w1 / we)
+					:ARG1 (a2 / -SURF-))))))
+
